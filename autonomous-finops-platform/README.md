@@ -47,7 +47,7 @@ Ensure you have an AWS account, Terraform, and the AWS CLI configured.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/[YourUsername]/autonomous-finops-platform.git
+    git clone https://github.com/TheSensibleLunatic/autonomous-finops-platform.git
     ```
 2.  **Navigate to the terraform directory:**
     ```bash
